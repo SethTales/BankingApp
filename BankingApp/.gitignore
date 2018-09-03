@@ -19,7 +19,9 @@ x64/
 x86/
 bld/
 [Bb]in/
+../BankingAppTests/[Bb]in/
 [Oo]bj/
+../BankingAppTests/[Oo]bj/
 [Ll]og/
 
 # Visual Studio 2015 cache/options directory
@@ -69,6 +71,7 @@ artifacts/
 *.pidb
 *.svclog
 *.scc
+*.stackdump
 
 # Chutzpah Test files
 _Chutzpah*
