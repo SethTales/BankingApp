@@ -1,0 +1,17 @@
+C:\Users\Seth Taylor\Source\Projects\bankingApp\BankingAppTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Seth Taylor\Source\Projects\bankingApp\BankingAppTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Seth Taylor\Source\Projects\bankingApp\BankingAppTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Seth Taylor\Source\Projects\bankingApp\BankingAppTests\bin\Debug\netcoreapp2.0\BankingAppTests.deps.json
+C:\Users\Seth Taylor\Source\Projects\bankingApp\BankingAppTests\bin\Debug\netcoreapp2.0\BankingAppTests.runtimeconfig.json
+C:\Users\Seth Taylor\Source\Projects\bankingApp\BankingAppTests\bin\Debug\netcoreapp2.0\BankingAppTests.runtimeconfig.dev.json
+C:\Users\Seth Taylor\Source\Projects\bankingApp\BankingAppTests\bin\Debug\netcoreapp2.0\BankingAppTests.dll
+C:\Users\Seth Taylor\Source\Projects\bankingApp\BankingAppTests\bin\Debug\netcoreapp2.0\BankingAppTests.pdb
+C:\Users\Seth Taylor\Source\Projects\bankingApp\BankingAppTests\bin\Debug\netcoreapp2.0\BankingApp.dll
+C:\Users\Seth Taylor\Source\Projects\bankingApp\BankingAppTests\bin\Debug\netcoreapp2.0\BankingApp.pdb
+C:\Users\Seth Taylor\Source\Projects\bankingApp\BankingAppTests\obj\Debug\netcoreapp2.0\BankingAppTests.csprojAssemblyReference.cache
+C:\Users\Seth Taylor\Source\Projects\bankingApp\BankingAppTests\obj\Debug\netcoreapp2.0\BankingAppTests.csproj.CoreCompileInputs.cache
+C:\Users\Seth Taylor\Source\Projects\bankingApp\BankingAppTests\obj\Debug\netcoreapp2.0\BankingAppTests.AssemblyInfoInputs.cache
+C:\Users\Seth Taylor\Source\Projects\bankingApp\BankingAppTests\obj\Debug\netcoreapp2.0\BankingAppTests.AssemblyInfo.cs
+C:\Users\Seth Taylor\Source\Projects\bankingApp\BankingAppTests\obj\Debug\netcoreapp2.0\BankingAppTests.csproj.CopyComplete
+C:\Users\Seth Taylor\Source\Projects\bankingApp\BankingAppTests\obj\Debug\netcoreapp2.0\BankingAppTests.dll
+C:\Users\Seth Taylor\Source\Projects\bankingApp\BankingAppTests\obj\Debug\netcoreapp2.0\BankingAppTests.pdb
