@@ -81,9 +81,9 @@ namespace BankingAppTests
         [Theory]
         [InlineData(500.01, "Withdrawal amount is greater than account balance. Cannot withdraw.")]
         [InlineData(600, "Withdrawal amount is greater than account balance. Cannot withdraw.")]
-        [InlineData(0.009, "Withdrawal must be at least 1 penny. Cannot deposit.")]
-        [InlineData(-0.01, "Withdrawal must be at least 1 penny. Cannot deposit.")]
-        [InlineData(-100, "Withdrawal must be at least 1 penny. Cannot deposit.")]
+        [InlineData(0.009, "Withdrawal must be at least 1 penny. Cannot withdraw.")]
+        [InlineData(-0.01, "Withdrawal must be at least 1 penny. Cannot withdraw.")]
+        [InlineData(-100, "Withdrawal must be at least 1 penny. Cannot withdraw.")]
         public void Test_IfWithdrawalNotValid_DoNotWriteToDatabase(decimal amount, string expectedMessage)
         {
             //clear the database to get a clean account balance
